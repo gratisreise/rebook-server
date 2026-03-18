@@ -1,3 +1,0 @@
-notification:
-  exchange: trade.notification.exchange
-  routing-key: trade.notification.key
