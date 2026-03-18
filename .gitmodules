@@ -1,0 +1,30 @@
+[submodule "rebook-auth"]
+	path = rebook-auth
+	url = https://github.com/gratisreise/rebook-auth-service.git
+[submodule "rebook-user"]
+	path = rebook-user
+	url = https://github.com/gratisreise/rebook-user-service.git
+[submodule "rebook-book"]
+	path = rebook-book
+	url = https://github.com/gratisreise/rebook-book-service.git
+[submodule "rebook-trade"]
+	path = rebook-trade
+	url = https://github.com/gratisreise/rebook-trade-service.git
+[submodule "rebook-chat"]
+	path = rebook-chat
+	url = https://github.com/gratisreise/rebook-chat-service.git
+[submodule "rebook-notification"]
+	path = rebook-notification
+	url = https://github.com/gratisreise/rebook-notification-service.git
+[submodule "rebook-yamls"]
+	path = rebook-yamls
+	url = https://github.com/gratisreise/rebook-yamls.git
+[submodule "rebook-config"]
+	path = rebook-config
+	url = https://github.com/gratisreise/rebook-config.git
+[submodule "rebook-eureka"]
+	path = rebook-eureka
+	url = https://github.com/gratisreise/rebook-eureka.git
+[submodule "rebook-gateway"]
+	path = rebook-gateway
+	url = https://github.com/gratisreise/rebook-gateway.git
