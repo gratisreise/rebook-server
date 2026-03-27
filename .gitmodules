@@ -28,3 +28,6 @@
 [submodule "rebook-gateway"]
 	path = rebook-gateway
 	url = https://github.com/gratisreise/rebook-gateway.git
+[submodule "common-library"]
+	path = common-library
+	url = https://github.com/gratisreise/common-library.git
